@@ -27,7 +27,7 @@ date_format = "Jan 2006"
    certificate_url = ""
    date_start = "2020-09-14"
    date_end = ""
-   description = "Submitted A&A, (Sep. 2020)"
+   description = "Accepted A&A, (Sep. 2020)"
    
   [[item]]
    organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
