@@ -72,4 +72,7 @@ user_groups:
 
 I’m currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and SPITZER Space Telescopes (HST, SST) and from the ground with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
 
-As a Hubby, i play Setar (an Iranian instrument) and also draw the human body with black pens, different gestures and figures.
+About Me: There are not much special about me to say
+Only as a hobby I draw human figures and gestures and also play Setar (Iranian instrument).
+
+
