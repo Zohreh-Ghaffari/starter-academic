@@ -32,7 +32,7 @@ date_format = "Jan 2006"
   [[item]]
    organization = "Z. Ghaffari, Ch. Westhues, M. Haas, R. Chini, S. P. Willner, M. L. N. Ashby, B. J. Wilkes"
    organization_url = ""
-   title = "Galaxy overdensities around 3C radio galaxies and quasarsat 1<z<2.5 revealed bySpitzer3.6/4.5μm and Pan-STARRS"
+   title = "Galaxy overdensities around 3C  radio galaxies and quasarsat 1<z<2.5 revealed by Spitzer3.6/4.5μm and Pan-STARRS"
    url = "https://onlinelibrary.wiley.com/doi/pdf/10.1002/asna.201713389"
    certificate_url = ""
    date_start = "2017-07-20"
