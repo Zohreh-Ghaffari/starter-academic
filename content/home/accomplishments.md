@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
  
   [[item]]
-   organization = "Z. Ghaffari, M. Haas, M. Chiaberge, S. P. Willner, R. Chini, H. Hildebrandt, M. West, R. de Propris"
+   organization = "Z. Ghaffari, M. Haas, M. Chiaberge, S. P. Willner, R. Chini, H. Hildebrandt, R. de Propris , and M. West"
    organization_url = ""
    title = "Clustering of red and blue galaxies around high-redshift 3C radio sources as seen by the Hubble Space Telescope"
    url = "https://www.researchgate.net/publication/344662710_Clustering_of_red_and_blue_galaxies_around_high redshift_3C_radio_sources_as_seen_by_the_Hubble_Space_Telescope#fullTextFileContent"
