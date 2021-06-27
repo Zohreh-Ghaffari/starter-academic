@@ -70,9 +70,9 @@ user_groups:
 - Visitors
 ---
 
-I’m currently working on LARGE SCALE STRUCTURE OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and SPITZER Space Telescopes (HST, SST) and from the ground with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
+I’m currently working on LARGE SCALE STRUCTUREs OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and SPITZER Space Telescopes (HST, SST). To explore the dust-enshrouded star-formation complementary far-infrared images with the Herschel Space Observatory (HSO) are obtained.
+From the ground the data samples are explored with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
 
-About Me: There are not much special about me to say;
-Only as a hobby I draw human figures and gestures and also play Setar (Iranian instrument).
+About Me: My favourite hobbies are painting and music: to draw human portraits and gestures and to play Setar (Iranian instrument).
 
 
