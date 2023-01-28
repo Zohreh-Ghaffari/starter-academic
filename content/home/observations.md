@@ -18,7 +18,7 @@ date_format = "Jan 2006"
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[item]]
-   organization = "Science project: "
+   organization = "Science project:dark matter free galaxies, measuring g+r+halpha "
    organization_url = ""
    title = "INT, La Palma, Spain"
    url = "https://www.ing.iac.es/astronomy/telescopes/int/"
