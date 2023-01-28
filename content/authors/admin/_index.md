@@ -24,6 +24,10 @@ interests:
 - Astrophysics
 - Galaxy Clusters
 - Cosmology
+- Galaxy evolution
+- Image reduction
+- Pipeline
+- Low Surface Brightness
 
 education:
   courses:
@@ -44,7 +48,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "ghaffari@astro.ruhr-uni-bochum.de".
+  link: '#contact'  # For a direct email link, use "zghaffari@iac.es".
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
