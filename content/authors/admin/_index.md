@@ -70,8 +70,13 @@ user_groups:
 - Visitors
 ---
 
-I’m currently working on LARGE SCALE STRUCTURES OF THE UNIVERSE: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale. In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and Spitzer Space Telescopes (HST, SST). To explore the dust-enshrouded star-formation complementary far-infrared images with the Herschel Space Observatory (HSO) are obtained.
-From the ground the data samples are explored with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
+I'm employed at IAC to work on various activities related to the surveys "SHARKS: Southern H-ATLAS Regions Survey".
+My task is to prepare a specific reduction with the purpose of investigating the Low Surface Brightness in Near Infra-Red (NIR) for the first time. Developing  such  a pipeline at IAC was a milestone in terms of advanced state of art techniques we used. In order  to increase the depth of data reduction and recover faint sources and light, especially in NIR, many experts in our team spent a huge amount of time making this reduction special. A promise for future expansion of the knowledge for other big surveys.
+The pipeline is finished and now we are in the phase to reduce 300 deg^2 in the following year.
+
+
+I was working on LARGE SCALE STRUCTURE OF THE UNIVERSE during my PhD: This includes studies of the structure and properties of clusters and groups of galaxies, galaxy evolution through observations of galaxies at intermediate and high redshifts, cosmology in general, the structure of the universe as a whole, cosmological parameters and the extra-galactic distance scale.
+In particular, I investigate galaxy clustering around powerful radio galaxies (which serve as cosmic mass beacons). These regions are mapped with the Hubble and SPITZER Space Telescopes (HST, SST) and from the ground with the 6.5-m Magellan Telescope and the 4.3-m Lowell Discovery Telescope.
 
 About Me: My favourite hobbies are painting and music: to draw human portraits and gestures and to play Setar (Iranian instrument).
 
