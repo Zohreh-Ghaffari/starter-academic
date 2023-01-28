@@ -14,8 +14,8 @@ role: Postdoctoral researcher
 
 # Organizations/Affiliations
 organizations:
-- name: Astronomisches Institute Ruhr-universitaet Bochum.
-  url: "https://www.ruhr-uni-bochum.de/en"
+- name: Instituto de Astrofísica de Canarias, IAC
+  url: "https://www.iac.es/en"
 
 # Short bio (displayed in user profile at end of posts)
 bio:  ...
