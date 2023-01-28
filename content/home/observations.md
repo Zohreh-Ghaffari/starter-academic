@@ -17,6 +17,15 @@ date_format = "Jan 2006"
 #   `title`, `organization` and `date_start` are the required parameters.
 #   Leave other parameters empty if not required.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[item]]
+   organization = "Science project: "
+   organization_url = ""
+   title = "INT, La Palma, Spain"
+   url = "https://www.ing.iac.es/astronomy/telescopes/int/"
+   certificate_url = ""
+   date_start = "2023-01-26"
+   date_end = "2023-01-29"
+   description = "Responsible for observing plans and telescope operator for 3 nights"
 
  
 [[item]]
